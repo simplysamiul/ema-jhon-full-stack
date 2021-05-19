@@ -1,0 +1,18 @@
+nav{
+    background-color: #000000;
+    line-height: 45px;
+    font-size: 18px;
+    text-align: left;
+    padding-left: 30px;
+    align-items: center;
+}
+nav a{
+    text-decoration: none;
+    color: #ffff;
+    margin-right: 20px;
+    padding: 10px 5px;
+}
+nav a:hover{
+    background-color: #d3d3d3;
+    color: #000000;
+}
